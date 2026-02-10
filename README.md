@@ -86,4 +86,4 @@ et à construire un **modèle explicatif et prédictif**.
 - `README.md` → Présentation du projet  
 
 ---
-
+liens de dataset:https://www.kaggle.com/datasets/mosapabdelghany/medical-insurance-cost-dataset

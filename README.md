@@ -60,7 +60,9 @@ et à construire un **modèle explicatif et prédictif**.
   - Augmentation moyenne d’environ **+23 800 $**  
 - Les charges augmentent également avec :
   - L’âge  
-  - Le BMI  
+  - Le BMI
+    <img width="521" height="338" alt="image" src="https://github.com/user-attachments/assets/7dc73e39-84ad-45ad-babd-e22fc0be81ef" />
+ 
 
 ---
 
